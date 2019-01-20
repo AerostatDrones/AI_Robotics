@@ -10,7 +10,7 @@ Robot chasis - 1 nos
 
 Circuit Diagram
 
-![alt text] (https://github.com/AerostatDrones/AI_Robotics/blob/master/Line%20Follower%20Circuit.PNG)
+![alt text](https://github.com/AerostatDrones/AI_Robotics/blob/master/Line%20Follower%20Circuit.PNG)
 
 First we train our Neural Network with example data. (Input - IR sensor data, Output - Servo motor) 
 
